@@ -1,4 +1,4 @@
-package com.topjavatutorial;
+package com.pattern;
 
 import java.util.Scanner;
 
